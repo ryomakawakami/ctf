@@ -34,6 +34,10 @@ It looks like they provided us with a `model.py`, so we won't have to figure out
 
 We'll work in [challenge.ipynb](challenge.ipynb) first as we did before. Look in there for the rest of the writeup.
 
+### New change
+
+[This new notebook](better.ipynb) is probably closer to the intended solution. I didn't change any of the provided parameters (LR, dropout) and only trained for 15 epochs.
+
 ---
 
 This is the final QR code I got:
